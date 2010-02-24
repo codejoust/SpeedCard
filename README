@@ -1,0 +1,6 @@
+SpeedCard - An exceedingly simple flashcard sequencer, for memorization.
+Linux Version: Written in python, using GTK+ and Glade for an GUI.
+Tested on Ubuntu.
+Mac and Windows are planned, but haven't been written.
+Currently, a demonstration .csv file of spanish vocabulary words is provided.
+Enjoy!
