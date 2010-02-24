@@ -4,3 +4,9 @@ Tested on Ubuntu.
 Mac and Windows are planned, but haven't been written.
 Currently, a demonstration .csv file of spanish vocabulary words is provided.
 Enjoy!
+
+Usage:
+To run, doubleclick on the SpeedCard executing file and click Run in the following prompt.
+To change the wordlist, rename the wordlist.csv file, and make another with the format
+The word you want define, seperated by a comma, then the definition.
+(Commandline usage: SpeedCard (wordlistfile))
